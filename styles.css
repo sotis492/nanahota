@@ -190,6 +190,7 @@ button {
   width: 32px;
   height: 32px;
   position: relative;
+  z-index: 50;
 }
 .nav-toggle span {
   position: absolute;
