@@ -377,13 +377,9 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  aspect-ratio: 1 / 1;
-  background: var(--color-bg-alt);
-  border-radius: 50%;
-  padding: 1.5rem;
 }
 .about__visual img {
-  width: 85%;
+  width: 100%;
   height: auto;
   object-fit: contain;
 }
